@@ -1,0 +1,29 @@
+
+@keyframes man {
+    0%{ left: 0px; top: 0px;} 
+    50%{left:1000px; top:0px; }
+    75%{left:500px; top:0px;}
+   
+} 
+
+.man {
+  animation-iteration-count: ease alternate infinite;
+  position: relative; 
+  animation-duration: 20s;
+  animation-name: man;
+}
+
+@keyframes computer {
+    0%{ left: 0px; top: 0px;} 
+    50%{left:1000px; top:0px; }
+    75%{left:500px; top:0px;} 
+
+} 
+
+.computer {
+   animation-iteration-count:ease alternate infinite;
+  position: relative; 
+  animation-delay: 0.3s;
+  animation-duration: 20s; 
+  animation-name: computer;
+}
