@@ -33,7 +33,7 @@
   position:absolute;}
 
 .snow{             
-    background-image: url('.img/snow.png');               
+    background-image: url('./img/snow.png');               
     animation: snow 3s linear infinite;
 }     
   @keyframes snow {
