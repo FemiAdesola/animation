@@ -35,3 +35,4 @@ This is a introduction to animation practice @integrify with instructor Alia Tra
 ## Tasks
 ![task1](/img/Front.png)
 
+- View the animation [here](https://femiadesola.github.io/animation/)
